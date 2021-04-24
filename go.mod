@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic
+module github.com/chihoi/wesbite2
 
 go 1.15
 
